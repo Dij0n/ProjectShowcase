@@ -1,0 +1,19 @@
+name: StrengthSMP
+version: '${project.version}'
+main: dijon.strengthsmp.StrengthSMP
+api-version: '1.21'
+commands:
+  strength:
+    usage: /strength
+  attack:
+    usage: /attack
+  startevent:
+    usage: /startevent
+  tpstrength:
+    usage: /tpstrength
+  daytwo:
+    usage: /daytwo
+  givelife:
+    usage: /givelife
+  startmaces:
+    usage: /startmaces

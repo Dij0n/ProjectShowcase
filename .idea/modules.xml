@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/InfuseDuels/InfuseDuels.iml" filepath="$PROJECT_DIR$/InfuseDuels/InfuseDuels.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ProjectShowcase.iml" filepath="$PROJECT_DIR$/.idea/ProjectShowcase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StrengthSMP/StrengthSMP.iml" filepath="$PROJECT_DIR$/StrengthSMP/StrengthSMP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZombiesBase/ZombiesBase.iml" filepath="$PROJECT_DIR$/ZombiesBase/ZombiesBase.iml" />
+    </modules>
+  </component>
+</project>

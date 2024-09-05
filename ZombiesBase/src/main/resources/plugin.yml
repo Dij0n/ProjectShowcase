@@ -1,0 +1,10 @@
+name: ZombiesBase
+version: '${project.version}'
+main: dijon.zombiesbase.ZombiesBase
+api-version: '1.21'
+depend: [ ProtocolLib ]
+commands:
+  givegun:
+    usage: /givegun
+  perk:
+    usage: /perk

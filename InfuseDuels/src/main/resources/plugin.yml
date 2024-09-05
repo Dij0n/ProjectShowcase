@@ -1,0 +1,28 @@
+name: InfuseDuels
+version: '${project.version}'
+main: dijon.infuseduels.InfuseDuels
+api-version: '1.20'
+depend: [InfuseRevamp]
+commands:
+  duel:
+    usage: /duel
+  duelaccept:
+    usage: /duelaccept
+  party:
+    usage: /party
+  p:
+    usage: /p
+  partyaccept:
+    usage: /partyaccept
+  spectate:
+    usage: /spectate
+  ckits:
+    usage: /ckits
+  savekit:
+    usage: /savekit
+  leave:
+    usage: /leave
+  deletekit:
+    usage: /deletekit
+  dijondebug:
+    usage: /dijondebug
